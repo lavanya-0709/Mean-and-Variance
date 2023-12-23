@@ -74,7 +74,9 @@ print("The standard deviation of arrival deom feeder is %.3f"%SD)
 ```
 
 # Output : 
-![Alt text](output.png)
+
+![output](https://github.com/Renusri-Naraharasetty/Mean-and-Variance/assets/146916363/0eef5cd4-0e72-41a4-a148-1f67e100f71b)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
