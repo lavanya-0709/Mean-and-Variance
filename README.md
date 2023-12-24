@@ -1,3 +1,5 @@
+# Name: LAVANYA S
+# Reg No:23012917
 #  Mean and variance of a discrete  distribution
 
 
